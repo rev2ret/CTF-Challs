@@ -1,0 +1,18 @@
+size=10987
+flag1=2
+edi=36
+var_ec=1078
+var_f0=4294967295
+var_90=192
+entry00_len=8466 entry00_ptr=0
+entry10_len=0 entry10_ptr=11676
+entry20_len=48 entry20_ptr=12288
+entry40_len=2231 entry40_ptr=11732
+entry50_len=30 entry50_ptr=13967
+entry60_len=144 entry60_ptr=14001
+entry70_len=23 entry70_ptr=14149
+align0=12288
+r14=12528
+r15=12816
+rem_after_entries=0
+p_after_entries=14172
